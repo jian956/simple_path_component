@@ -1,6 +1,6 @@
 [project]
 name = "simple-path-component"
-version = "0.1.0"
+version = "0.1.1"
 description = "Checks path segments against OS limits for length, reserved names, and characters."
 requires-python = ">=3.10"
 dependencies = []
